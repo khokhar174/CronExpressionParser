@@ -1,0 +1,12 @@
+[
+  "expression_parser_tests.py::test_interval_exp_part_parse_valid",
+  "expression_parser_tests.py::test_base_minute_exp_part_parse_valid",
+  "expression_parser_tests.py::test_base_hour_exp_part_parse_valid",
+  "expression_parser_tests.py::test_range_exp_part_parse_valid",
+  "expression_parser_tests.py::test_list_exp_part_parse_valid",
+  "expression_parser_tests.py::test_month_exp_limit_valid",
+  "expression_parser_tests.py::test_minute_exp_limit_valid",
+  "expression_parser_tests.py::test_hour_exp_limit_invalid",
+  "expression_parser_tests.py::test_expression_parse_invalid",
+  "expression_parser_tests.py::test_expression_parse_output_valid"
+]

@@ -1,0 +1,3 @@
+{
+  "expression_parser_tests.py::test_month_exp_limit_invalid": true
+}
